@@ -9,7 +9,7 @@
 title: Rosendales of Baltimore
 email: your-email@domain.com
 description: A fantastic site all about the Rosendale family, in Baltimore.
-baseurl: "rosendales.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.rosendales.github.io" # the base hostname & protocol for your site
 
 # Build settings
